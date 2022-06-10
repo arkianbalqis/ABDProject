@@ -6,5 +6,9 @@ MapReduce digunakan diterapkan untuk mempermudah dan mempercepat proses analisis
 MapReduce yang diterapkan dapat digunakan untuk:
 1. Melihat kondisi klinis pasien (covid-19, cough, fever,respiratory, pneumonia) terkait gejala COVID-19
 2. Mengetahui penanganan yang umum dilakukan pada pasien COVID-19
-3. Mengetahui jumlah kematian pasien paa waktu tertentu
+3. Mengetahui jumlah kematian pasien pada waktu tertentu
 4. Melihat persebaran lokasi kota pasien
+
+Spark diterapkan pada:
+1. Filtering data pasien sesuai kondisi
+2. Clustering data informasi pasien
